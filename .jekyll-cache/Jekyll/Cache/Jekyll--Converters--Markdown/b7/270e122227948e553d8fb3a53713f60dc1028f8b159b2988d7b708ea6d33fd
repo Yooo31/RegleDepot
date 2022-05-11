@@ -1,14 +1,14 @@
-I"�
-<h2>Le 99</h2>
+I"�
+<h3></h3>
 
-<h3>Ce qu'il vous faut</h3>
+<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-arrow-right-from-arc"></i>Un jeu de 52 cartes (sans les joker)</li>
   <li><i class="fa-solid fa-arrow-right-from-arc"></i>Un minimum de 2 joueurs</li>
 </ul>
 
-<h3>Valeurs des cartes</h3>
+<h2>Valeurs des cartes</h2>
 
 <p><strong>L'As :</strong></p>
 
@@ -40,7 +40,7 @@
 
 <p class="exemple">Ex : Le tas vaut 25 points, la personne pose un 6 le tas vaut maintenant 31.</p>
 
-<h3>Préparation</h3>
+<h2>Préparation</h2>
 
 <ul>
   <li><i class="fa-solid fa-arrow-right-from-arc"></i>Distribuer 4 cartes par personnes</li>
@@ -48,7 +48,7 @@
   <li><i class="fa-solid fa-arrow-right-from-arc"></i>Placer la pioche au centre</li>
 </ul>
 
-<h3>Déroulement du jeu</h3>
+<h2>Déroulement du jeu</h2>
 
 <p>A tour de rôle, les joueurs vont devoir jeter une carte de leur jeu sur le tas.</p>
 
@@ -64,7 +64,7 @@
 
 <p>Le jeu continue ainsi jusqu'à que quelqu'un dépasse 99 ou tombe EXACTEMENT dessus.</p>
 
-<h3>Fin du jeu</h3>
+<h2>Fin du jeu</h2>
 
 <p>Si la personne tombe <strong>exactement</strong> sur 99 il distribue un cul-sec.</p>
 
