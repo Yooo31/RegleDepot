@@ -1,14 +1,9 @@
----
-layout: post
-title:  "Le 99"
-categories: carte
-players: 2
----
+I"�
 <h2>Ce qu'il vous faut</h2>
 
 <ul>
-  <li><i class="fa-solid fa-arrow-right-from-arc"></i>Un jeu de 52 cartes (sans les joker)</li>
-  <li><i class="fa-solid fa-arrow-right-from-arc"></i>Un minimum de 2 joueurs</li>
+  <li><i class="fa-solid fa-beer-mug-empty"></i>Un jeu de 52 cartes (sans les joker)</li>
+  <li><i class="fa-solid fa-beer-mug-empty"></i>Un minimum de 2 joueurs</li>
 </ul>
 
 <h2>Valeurs des cartes</h2>
@@ -46,9 +41,9 @@ players: 2
 <h2>Préparation</h2>
 
 <ul>
-  <li><i class="fa-solid fa-arrow-right-from-arc"></i>Distribuer 4 cartes par personnes</li>
-  <li><i class="fa-solid fa-arrow-right-from-arc"></i>Placer une carte au centre de la table (pas un tête ni un as)</li>
-  <li><i class="fa-solid fa-arrow-right-from-arc"></i>Placer la pioche au centre</li>
+  <li><i class="fa-solid fa-beer-mug-empty"></i>Distribuer 4 cartes par personnes</li>
+  <li><i class="fa-solid fa-beer-mug-empty"></i>Placer une carte au centre de la table (pas un tête ni un as)</li>
+  <li><i class="fa-solid fa-beer-mug-empty"></i>Placer la pioche au centre</li>
 </ul>
 
 <h2>Déroulement du jeu</h2>
@@ -74,3 +69,4 @@ players: 2
 <p>Si la personne <strong>dépasse</strong> 99 il boit son verre en cul-sec.</p>
 
 <p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>
+:ET

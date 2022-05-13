@@ -1,0 +1,13 @@
+<h2><a class="post-link" href="{{ post.url | relative_url }}">
+  {{ post.title | escape }}
+</a></h2>
+<span>{{ post.description }}</span>
+
+<p>{{ post.categories }}</p>
+
+{% if post.categories == 1 %}
+  {% include carte.html %}
+  <p>Oui</p>
+{% endif %}
+
+<i class="fa-solid fa-user-group"></i> {{ post.players }}
