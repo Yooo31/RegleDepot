@@ -1,8 +1,8 @@
-I"�<h2>Ce qu'il vous faut</h2>
+I"<h2>Ce qu'il vous faut</h2>
 
 <ul>
-  <li><i class="fa-solid fa-beer-mug-empty"></i>Un jeu de 52 cartes (sans les joker)</li>
-  <li><i class="fa-solid fa-beer-mug-empty"></i>Un minimum de 2 joueurs</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un jeu de 52 cartes (sans les joker)</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un minimum de 2 joueurs</li>
 </ul>
 
 <h2>Valeurs des cartes</h2>
@@ -50,9 +50,9 @@
 <h2>Préparation</h2>
 
 <ul>
-  <li><i class="fa-solid fa-beer-mug-empty"></i>Distribuer 4 cartes par personnes</li>
-  <li><i class="fa-solid fa-beer-mug-empty"></i>Placer une carte au centre de la table (pas un tête ni un as)</li>
-  <li><i class="fa-solid fa-beer-mug-empty"></i>Placer la pioche au centre</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Distribuer 4 cartes par personnes</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Placer une carte au centre de la table (pas un tête ni un as)</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Placer la pioche au centre</li>
 </ul>
 
 <h2>Déroulement du jeu</h2>

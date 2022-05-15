@@ -9,9 +9,13 @@
           {{ post.title | escape }}
         </a></h5>
         <p class="card-text">{{ post.description }}</p>
-        {% if post.category == "Carte" %}
-        <p class="card-text"><small class="text-muted">{% include carte.html %} | <i class="fa-solid fa-user-group"></i> {{ post.players }}</small></p>
-        {% endif %}
+        {%- if post.category == "Carte" -%}
+          <p class="card-text"><small class="text-muted">{%- include img-carte.html -%} | <i class="fa-solid fa-user-group"></i> {{ post.players }}</small></p>
+        {%- elsif post.category == "De" -%}
+          <p class="card-text"><small class="text-muted">{%- include img-de.html -%} | <i class="fa-solid fa-user-group"></i> {{ post.players }}</small></p>
+        {%- else -%}
+          <p class="card-text"><small class="text-muted">{%- include img-autre.html -%} | <i class="fa-solid fa-user-group"></i> {{ post.players }}</small></p>
+        {%- endif -%}
       </div>
     </div>
   </div>
