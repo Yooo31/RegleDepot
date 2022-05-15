@@ -1,11 +1,4 @@
----
-layout: post
-title:  "Le 99"
-permalink : /le-99
-category: Carte
-players: 2
----
-<h2>Ce qu'il vous faut</h2>
+I"�<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty"></i>Un jeu de 52 cartes (sans les joker)</li>
@@ -87,3 +80,4 @@ players: 2
 <p>Si la personne <strong>dépasse</strong> 99 il boit son verre en cul-sec.</p>
 
 <p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>
+:ET

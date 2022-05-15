@@ -3,11 +3,8 @@
 </a></h2>
 <span>{{ post.description }}</span>
 
-<p>{{ post.categories }}</p>
-
-{% if post.categories == 1 %}
+{% if post.category == "Carte" %}
   {% include carte.html %}
-  <p>Oui</p>
 {% endif %}
 
 <i class="fa-solid fa-user-group"></i> {{ post.players }}
