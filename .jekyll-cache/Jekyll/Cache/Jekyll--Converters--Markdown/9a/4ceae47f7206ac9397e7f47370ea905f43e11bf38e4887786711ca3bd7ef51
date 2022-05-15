@@ -1,13 +1,4 @@
----
-layout: post
-title:  "Le 99"
-description: Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.
-image: /RegleDepot/content/99.png
-permalink: /le-99
-category: Carte
-players: 2
----
-<h2>Ce qu'il vous faut</h2>
+I"N<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un jeu de 52 cartes (sans les joker)</li>
@@ -53,7 +44,7 @@ players: 2
 <p>Toutes les autres cartes ont pour valeur leur chiffre.</p>
 
 <div class="alert alert-secondary" role="alert">
-  <p class="exemple mt-1 mb-1">Ex : Le tas vaut 25 points, la personne pose un 6 le tas vaut maintenant 31.</p>
+  <p class="exemple mt-1 mb-1 j">Ex : Le tas vaut 25 points, la personne pose un 6 le tas vaut maintenant 31.</p>
 </div>
 
 <h2>Préparation</h2>
@@ -89,3 +80,4 @@ players: 2
 <p>Si la personne <strong>dépasse</strong> 99 il boit son verre en cul-sec.</p>
 
 <p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>
+:ET

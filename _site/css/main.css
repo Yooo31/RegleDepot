@@ -276,4 +276,12 @@ table td { border: 1px solid #e8e8e8; }
 
 ul { list-style: none; }
 
+.exemple { font-style: italic; text-align: center; }
+
+.nav-link { color: #fee21f !important; }
+
+nav { background-color: #0f3696 !important; }
+
+h2, h1 { color: #0f3696; }
+
 /*# sourceMappingURL=main.css.map */

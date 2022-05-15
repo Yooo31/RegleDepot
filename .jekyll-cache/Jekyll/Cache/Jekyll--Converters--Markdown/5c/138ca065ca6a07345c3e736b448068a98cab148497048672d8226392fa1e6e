@@ -1,13 +1,4 @@
----
-layout: post
-title:  "Le 99"
-description: Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.
-image: /RegleDepot/content/99.png
-permalink: /le-99
-category: Carte
-players: 2
----
-<h2>Ce qu'il vous faut</h2>
+I"~<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un jeu de 52 cartes (sans les joker)</li>
@@ -16,7 +7,7 @@ players: 2
 
 <h2>Valeurs des cartes</h2>
 
-<p><strong>L'As :</strong></p>
+<p class="j"><strong>L'As :</strong></p>
 
 <p>La carte vaut 1 point. Celui qui pose la carte a la possibilité d'ajouter une règle qui restera juqu'à la fin de la partie.</p>
 
@@ -24,7 +15,7 @@ players: 2
   <p class=" exemple mt-1 mb-1">Ex : Interdiction de dire "Oui" et "Non"</p>
 </div>
 
-<p><strong>Le Valet :</strong></p>
+<p class="j"><strong>Le Valet :</strong></p>
 
 <p>La carte vaut 20 points.</p>
 
@@ -32,7 +23,7 @@ players: 2
   <p class=" exemple mt-1 mb-1">Ex : Le tas vaut 25 points, une fois le valet posé il en vaut 45.</p>
 </div>
 
-<p><strong>La Dame :</strong></p>
+<p class="j"><strong>La Dame :</strong></p>
 
 <p>La carte vaut -20 points.</p>
 
@@ -40,7 +31,7 @@ players: 2
   <p class=" exemple mt-1 mb-1">Ex : Le tas vaut 25 points, une fois la dame posée il en vaut 5.</p>
 </div>
 
-<p><strong>Le Roi :</strong></p>
+<p class="j"><strong>Le Roi :</strong></p>
 
 <p>La carte vaut entre -20 et 20 points. Une fois le Roi posé la personne choisie une valeur entre -20 et 20.</p>
 
@@ -48,7 +39,7 @@ players: 2
   <p class="exemple mt-1 mb-1">Ex : Le tas vaut 25 points, la personne pose la carte est choisi -15, le tas vaut maintenant 10.</p>
 </div>
 
-<p><strong>Les autres cartes :</strong></p>
+<p class="j"><strong>Les autres cartes :</strong></p>
 
 <p>Toutes les autres cartes ont pour valeur leur chiffre.</p>
 
@@ -89,3 +80,4 @@ players: 2
 <p>Si la personne <strong>dépasse</strong> 99 il boit son verre en cul-sec.</p>
 
 <p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>
+:ET
