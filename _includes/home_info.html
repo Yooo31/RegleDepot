@@ -1,10 +1,18 @@
-<h2><a class="post-link" href="{{ post.url | relative_url }}">
-  {{ post.title | escape }}
-</a></h2>
-<span>{{ post.description }}</span>
-
-{% if post.category == "Carte" %}
-  {% include carte.html %}
-{% endif %}
-
-<i class="fa-solid fa-user-group"></i> {{ post.players }}
+<div class="card mb-3 text-center" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4 mt-4">
+      <img src={{ post.image }} alt="Le 99">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a></h5>
+        <p class="card-text">{{ post.description }}</p>
+        {% if post.category == "Carte" %}
+        <p class="card-text"><small class="text-muted">{% include carte.html %} | <i class="fa-solid fa-user-group"></i> {{ post.players }}</small></p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
