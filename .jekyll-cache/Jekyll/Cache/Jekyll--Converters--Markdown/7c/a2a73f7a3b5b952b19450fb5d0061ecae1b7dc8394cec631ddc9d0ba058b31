@@ -1,14 +1,4 @@
----
-layout: post
-title:  "Le wiz"
-description: Jeu de main
-image: /RegleDepot/content/99.png
-permalink: /le-wiz
-category: Autre
-players: 3
-time: Tant que vous voulez
----
-<h2>Ce qu'il vous faut</h2>
+I"%<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Des mains</li>
@@ -81,3 +71,4 @@ time: Tant que vous voulez
 <p><strong>Attention !</strong> Toutes personnes qui suit une personne qui se trompe doit aussi boire.</p>
 
 <p>Lorsqu'on lance une manche, la première action doit être un <a href="#wiz"><strong>"wiz"</strong></a>. Il peut se faaire du côté que vous voulez.</p>
+:ET

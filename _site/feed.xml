@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/RegleDepot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/RegleDepot/" rel="alternate" type="text/html" /><updated>2022-05-16T11:16:47+02:00</updated><id>http://localhost:4000/RegleDepot/feed.xml</id><title type="html">Nos règles de jeux</title><subtitle>Description de dingo !</subtitle><entry><title type="html">Le 99</title><link href="http://localhost:4000/RegleDepot/le-99" rel="alternate" type="text/html" title="Le 99" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-99</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-99"><![CDATA[<h2>Ce qu'il vous faut</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/RegleDepot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/RegleDepot/" rel="alternate" type="text/html" /><updated>2022-05-16T11:55:51+02:00</updated><id>http://localhost:4000/RegleDepot/feed.xml</id><title type="html">Nos règles de jeux</title><subtitle>Description de dingo !</subtitle><entry><title type="html">Le 99</title><link href="http://localhost:4000/RegleDepot/le-99" rel="alternate" type="text/html" title="Le 99" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-99</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-99"><![CDATA[<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un jeu de 52 cartes (sans les joker)</li>
@@ -96,32 +96,59 @@
 
 <h2>Les différentes possibilités</h2>
 
-<p><strong>“Wiz”</strong></p>
+<p id="wiz"><strong>"Wiz"</strong></p>
 
-<p>Le joueur devra dire “wiz” et faire un geste de la main, du côté d’où viens le jeu vers l’autre.</p>
+<p>Le joueur devra dire "wiz" et faire un geste de la main, du côté d'où viens le jeu vers l'autre.</p>
 
 <p>Cette action donne le tour au joueur suivant.</p>
 
-<p><strong>“Wish”</strong></p>
+<p><strong>"Wish"</strong></p>
 
-<p>Le joueur devra dire “wish” et mettre les 2 mains sur la tête.</p>
+<p>Le joueur devra dire "wish" et mettre les 2 mains sur la tête.</p>
 
 <p>Cette action saute le joueur suivant.</p>
 
-<p><strong>“Bang”</strong></p>
+<p><strong>"Bang"</strong></p>
 
-<p>Le joueur devra dire “bang” et lever le bras à 90° du côté d’où vient le jeu.</p>
+<p>Le joueur devra dire "bang" et lever le bras à 90° du côté d'où vient le jeu.</p>
 
 <p>Cette action change le sens du jeu.</p>
 
-<p><strong>“Flash”</strong></p>
+<p id="flash"><strong>"Flash"</strong></p>
 
-<p>Le joueur devra dire “flash” et pointer du doigt la personne de son choix.</p>
+<p>Le joueur devra dire "flash" et pointer du doigt la personne de son choix.</p>
 
-<p>La personne qui se fait pointer doit dire un nom d’animal qui n’a pas été encore dit le plus rapidement possible.</p>
+<p>La personne qui se fait pointer doit dire un nom d'animal qui n'a pas été encore dit le plus rapidement possible.</p>
 
 <h3>Règles Bonus</h3>
 
-<p><strong>“La Vague”</strong></p>
+<p id="vague"><strong>"La Vague"</strong></p>
 
-<p><strong>“L’esquive”</strong></p>]]></content><author><name></name></author><category term="Autre" /><summary type="html"><![CDATA[Jeu de main]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Le joueur devra dire "vague" et faire une vague de la main, du côté d'où viens le jeu vers l'autre.</p>
+
+<p>Cette action donne le tour au joueur suivant et le force à faire la vague ou l'esquive.</p>
+
+<p id="esquive"><strong>"L'esquive"</strong></p>
+
+<p>le joueur devra dire "esquive" et se reculer en arrière.</p>
+
+<p>Cette action se joue uniquement après une vague, elle y met fin.</p>
+
+<h2>Les défaites</h2>
+
+<p>Il y a différentes façon de perdre :</p>
+
+<ul>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Si quelqu'un joue alors que ce n'est pas son tour,</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Si quelqu'un ne joue pas alors que c'est son tour,</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Si la personne se trompe de geste ou le fait du mauvais sens,</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Si la personne reçoit un <a href="flash"><strong>"flash"</strong></a> et qu'elle ne répond pas ou donne un animal déjà dit,</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Si la personne lance un <a href="flash"><strong>"flash"</strong></a> et que la personne répond correctement,</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Si la personne ne dit pas <a href="vague"><strong>"vague"</strong></a> ou <a href="esquive"><strong>"esquive"</strong></a> alors qu'elle a reçu une <a href="vague"><strong>"vague"</strong></a>.</li>
+</ul>
+
+<p>Si tu perds tu bois ! Mais tu as le droit de relancer la manche suivante.</p>
+
+<p><strong>Attention !</strong> Toutes personnes qui suit une personne qui se trompe doit aussi boire.</p>
+
+<p>Lorsqu'on lance une manche, la première action doit être un <a href="#wiz"><strong>"wiz"</strong></a>. Il peut se faaire du côté que vous voulez.</p>]]></content><author><name></name></author><category term="Autre" /><summary type="html"><![CDATA[Jeu de main]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
