@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/RegleDepot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/RegleDepot/" rel="alternate" type="text/html" /><updated>2022-05-16T11:02:28+02:00</updated><id>http://localhost:4000/RegleDepot/feed.xml</id><title type="html">Nos règles de jeux</title><subtitle>Description de dingo !</subtitle><entry><title type="html">Le 99</title><link href="http://localhost:4000/RegleDepot/le-99" rel="alternate" type="text/html" title="Le 99" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-99</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-99"><![CDATA[<h2>Ce qu'il vous faut</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/RegleDepot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/RegleDepot/" rel="alternate" type="text/html" /><updated>2022-05-16T11:16:47+02:00</updated><id>http://localhost:4000/RegleDepot/feed.xml</id><title type="html">Nos règles de jeux</title><subtitle>Description de dingo !</subtitle><entry><title type="html">Le 99</title><link href="http://localhost:4000/RegleDepot/le-99" rel="alternate" type="text/html" title="Le 99" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-99</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-99"><![CDATA[<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un jeu de 52 cartes (sans les joker)</li>
@@ -79,4 +79,49 @@
 
 <p>Si la personne <strong>dépasse</strong> 99 il boit son verre en cul-sec.</p>
 
-<p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>]]></content><author><name></name></author><category term="Carte" /><summary type="html"><![CDATA[Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le kinito</title><link href="http://localhost:4000/RegleDepot/le-kinito" rel="alternate" type="text/html" title="Le kinito" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-kinito</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-kinito"><![CDATA[<p>Règles du jeu à écrrire</p>]]></content><author><name></name></author><category term="De" /><summary type="html"><![CDATA[Jeu de dé]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le wiz</title><link href="http://localhost:4000/RegleDepot/le-wiz" rel="alternate" type="text/html" title="Le wiz" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-wiz</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-wiz"><![CDATA[<p>Règles du jeu à écrrire</p>]]></content><author><name></name></author><category term="Autre" /><summary type="html"><![CDATA[Jeu de main]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>]]></content><author><name></name></author><category term="Carte" /><summary type="html"><![CDATA[Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le kinito</title><link href="http://localhost:4000/RegleDepot/le-kinito" rel="alternate" type="text/html" title="Le kinito" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-kinito</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-kinito"><![CDATA[<p>Règles du jeu à écrrire</p>]]></content><author><name></name></author><category term="De" /><summary type="html"><![CDATA[Jeu de dé]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le wiz</title><link href="http://localhost:4000/RegleDepot/le-wiz" rel="alternate" type="text/html" title="Le wiz" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-wiz</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-wiz"><![CDATA[<h2>Ce qu'il vous faut</h2>
+
+<ul>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Des mains</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un minimum de 3 joueurs</li>
+</ul>
+
+<h2>Principe du jeu</h2>
+
+<p>Le wiz se joue en cercle</p>
+
+<p>À tour de rôle, chaque joueur devra faire un geste et dire le mot en rapport pour passer son tour</p>
+
+<p>Le geste que le joueur effectue doit être en rapport avec celui du joueur précédent.</p>
+
+<h2>Les différentes possibilités</h2>
+
+<p><strong>“Wiz”</strong></p>
+
+<p>Le joueur devra dire “wiz” et faire un geste de la main, du côté d’où viens le jeu vers l’autre.</p>
+
+<p>Cette action donne le tour au joueur suivant.</p>
+
+<p><strong>“Wish”</strong></p>
+
+<p>Le joueur devra dire “wish” et mettre les 2 mains sur la tête.</p>
+
+<p>Cette action saute le joueur suivant.</p>
+
+<p><strong>“Bang”</strong></p>
+
+<p>Le joueur devra dire “bang” et lever le bras à 90° du côté d’où vient le jeu.</p>
+
+<p>Cette action change le sens du jeu.</p>
+
+<p><strong>“Flash”</strong></p>
+
+<p>Le joueur devra dire “flash” et pointer du doigt la personne de son choix.</p>
+
+<p>La personne qui se fait pointer doit dire un nom d’animal qui n’a pas été encore dit le plus rapidement possible.</p>
+
+<h3>Règles Bonus</h3>
+
+<p><strong>“La Vague”</strong></p>
+
+<p><strong>“L’esquive”</strong></p>]]></content><author><name></name></author><category term="Autre" /><summary type="html"><![CDATA[Jeu de main]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
