@@ -1,11 +1,9 @@
 <h1>{{ page.title }}</h1>
 
 {% if page.category == "Carte" %}
-  {% include img-carte.html %}
+  {% include img-carte.html %} | <i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}
 {% elsif page.category == "De" %}
-  {% include img-de.html %}
+  {% include img-de.html %} | <i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}
 {% elsif page.category == "Autre" %}
-  {% include img-autre.html %}
+  {% include img-autre.html %} | <i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}
 {% endif %}
-
-<p><i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}</p>
