@@ -6,6 +6,6 @@ image: /RegleDepot/content/99.png
 permalink: /le-table-ronde
 category: Balle
 players: 2
-time: 15 min
+time: Tant que vous voulez
 ---
 <h2>Ce qu'il vous faut</h2>
