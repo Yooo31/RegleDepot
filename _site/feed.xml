@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/RegleDepot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/RegleDepot/" rel="alternate" type="text/html" /><updated>2022-05-16T11:58:38+02:00</updated><id>http://localhost:4000/RegleDepot/feed.xml</id><title type="html">Nos règles de jeux</title><subtitle>Description de dingo !</subtitle><entry><title type="html">Le 99</title><link href="http://localhost:4000/RegleDepot/le-99" rel="alternate" type="text/html" title="Le 99" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-99</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-99"><![CDATA[<h2>Ce qu'il vous faut</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/RegleDepot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/RegleDepot/" rel="alternate" type="text/html" /><updated>2022-05-16T12:31:25+02:00</updated><id>http://localhost:4000/RegleDepot/feed.xml</id><title type="html">Nos règles de jeux</title><subtitle>Description de dingo !</subtitle><entry><title type="html">Le 99</title><link href="http://localhost:4000/RegleDepot/le-99" rel="alternate" type="text/html" title="Le 99" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-99</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-99"><![CDATA[<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un jeu de 52 cartes (sans les joker)</li>
@@ -79,7 +79,74 @@
 
 <p>Si la personne <strong>dépasse</strong> 99 il boit son verre en cul-sec.</p>
 
-<p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>]]></content><author><name></name></author><category term="Carte" /><summary type="html"><![CDATA[Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le kinito</title><link href="http://localhost:4000/RegleDepot/le-kinito" rel="alternate" type="text/html" title="Le kinito" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-kinito</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-kinito"><![CDATA[<p>Règles du jeu à écrrire</p>]]></content><author><name></name></author><category term="De" /><summary type="html"><![CDATA[Jeu de dé]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le wiz</title><link href="http://localhost:4000/RegleDepot/le-wiz" rel="alternate" type="text/html" title="Le wiz" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-wiz</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-wiz"><![CDATA[<h2>Ce qu'il vous faut</h2>
+<p>Une fois que 99 est atteint ou dépassé, toutes les règles sont supprimées.</p>]]></content><author><name></name></author><category term="Carte" /><summary type="html"><![CDATA[Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le kinito</title><link href="http://localhost:4000/RegleDepot/le-kinito" rel="alternate" type="text/html" title="Le kinito" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-kinito</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-kinito"><![CDATA[<h2>Ce qu'il vous faut</h2>
+
+<ul>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>2 dés</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>1 verre opaque</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>1 plateau/assiette peut être utile</li>
+  <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Un minimum de 3 joueurs</li>
+</ul>
+
+<h2>Principe du jeu</h2>
+
+<p>Le kinito se joue en cercle</p>
+
+<p>À tour de rôle, chaque joueur devra secouer les dés et faire un score supérieur à celui du joueur précédent.</p>
+
+<h2>Connaître son score</h2>
+
+<p>Après avoir secouer les dés il vous faut regardé discretement leur valeur.</p>
+
+<p>Votre socre est égal à la valeur des 2 dés mis côte à côte.</p>
+
+<p>Il faut toujours prendre la plus grande valeur possible.</p>
+
+<div class="alert alert-secondary" role="alert">
+  <p class=" exemple mt-1 mb-1">Ex : J'obtiens les dés 2 et 6, mon score sera de 62.</p>
+</div>
+
+<h2>Cas particuliers</h2>
+
+<p>En fonction de votre score, des cas particuliers sont possibles :</p>
+
+<p><strong>"Le kinito"</strong></p>
+
+<p>Le kinito est le meilleur score possible, il s'obtient lorsque vous faites 21 ou 65.</p>
+
+<p><strong>"31"</strong></p>
+
+<p>Lorsque vous faites 31 vous ne prenez pas en compte le score précédent et vous annoncez le changement du sens de jeu.</p>
+
+<p><strong>"51"</strong></p>
+
+<p>Lorsque vous faites 51 vous ne prenez pas en compte le score précédent et vous annocez que tout le monde doit boire.</p>
+
+<p><strong>"Les doubles"</strong></p>
+
+<p>Lorsque vos 2 dés ont la même valeur, vous avez un double. Les doubles sont plus ou moins fort en fonction du chiffre.</p>
+
+<p>Le double 1 est le plus faible le 6 le plus fort.</p>
+
+<p>Les doubles sont plus fort que les numéros normaux mais moins fort que le kinito.</p>
+
+<h2>Déroulement du jeu</h2>
+
+<p>Après avoir secoué les dés et regardé votre score, vous devez l'annoncer et passer le gobelet au joueur suivant sans bouger les dés.</p>
+
+<p>Vous avez possibilité de mentir sur votre score.</p>
+
+<p>Le joueur suivant doit obtenir un score similaire ou supérieur au votre.</p>
+
+<p>Si il pense que vous mentez il a la possibilité de soulever le gobelet pour vérifier.</p>
+
+<p>Si vous trichez vous buvez mais en revanche si vous ne trichez pas c'est à l'accusateur de boire.</p>
+
+<p>Le joueur doit ensuite secouer les dés :</p>
+
+<p>Si il fait plus que vous il passe le gobelet au joueur suivant, sinon il doit boire.</p>
+
+<p>Il a aussi la possibilité de relancer les dés mais cette fois il n'a pas le droit de regarder le score il doit donc le prédire.</p>]]></content><author><name></name></author><category term="De" /><summary type="html"><![CDATA[Jeu de dé]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" /><media:content medium="image" url="http://localhost:4000/RegleDepot/RegleDepot/content/99.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Le wiz</title><link href="http://localhost:4000/RegleDepot/le-wiz" rel="alternate" type="text/html" title="Le wiz" /><published>2022-05-11T00:00:00+02:00</published><updated>2022-05-11T00:00:00+02:00</updated><id>http://localhost:4000/RegleDepot/le-wiz</id><content type="html" xml:base="http://localhost:4000/RegleDepot/le-wiz"><![CDATA[<h2>Ce qu'il vous faut</h2>
 
 <ul>
   <li><i class="fa-solid fa-beer-mug-empty mr-3"></i>Des mains</li>

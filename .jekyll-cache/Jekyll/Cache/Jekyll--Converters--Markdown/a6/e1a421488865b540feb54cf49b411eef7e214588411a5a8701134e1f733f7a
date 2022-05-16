@@ -1,13 +1,4 @@
----
-layout: post
-title:  "Le kinito"
-description: Jeu de dé
-image: /RegleDepot/content/99.png
-permalink: /le-kinito
-category: De
-players: 3
-time: Tant que vous voulez
----
+I"/
 <h2>Ce qu'il vous faut</h2>
 
 <ul>
@@ -76,3 +67,4 @@ time: Tant que vous voulez
 <p>Si il fait plus que vous il passe le gobelet au joueur suivant, sinon il doit boire.</p>
 
 <p>Il a aussi la possibilité de relancer les dés mais cette fois il n'a pas le droit de regarder le score il doit donc le prédire.</p>
+:ET
