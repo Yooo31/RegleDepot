@@ -13,6 +13,8 @@
           <p class="card-text"><small class="text-muted">{%- include img-carte.html -%} | <i class="fa-solid fa-user-group"></i> {{ post.players }} | <i class="fa-regular fa-clock"></i> {{ post.time }}</small></p>
         {%- elsif post.category == "De" -%}
           <p class="card-text"><small class="text-muted">{%- include img-de.html -%} | <i class="fa-solid fa-user-group"></i> {{ post.players }} | <i class="fa-regular fa-clock"></i> {{ post.time }}</small></p>
+        {%- elsif post.category == "Balle" -%}
+          <p class="card-text"><small class="text-muted">{%- include img-balle.html -%} | <i class="fa-solid fa-user-group"></i> {{ post.players }} | <i class="fa-regular fa-clock"></i> {{ post.time }}</small></p>
         {%- else -%}
           <p class="card-text"><small class="text-muted">{%- include img-autre.html -%} | <i class="fa-solid fa-user-group"></i> {{ post.players }} | <i class="fa-regular fa-clock"></i> {{ post.time }}</small></p>
         {%- endif -%}
