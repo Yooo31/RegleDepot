@@ -2,7 +2,7 @@
 layout: post
 title:  "Le bière pong"
 description: Jeu avec balle de ping pong
-image: /RegleDepot/content/99.png
+image: /RegleDepot/content/beer-pong.png
 permalink: /le-biere-pong
 category: Balle
 players: 2
