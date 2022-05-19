@@ -8,6 +8,8 @@
     {% include img-carte.html %} | <i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}
   {% elsif page.category == "Balle" %}
     {% include img-balle.html %} | <i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}
+  {% elsif page.category == "Main" %}
+    {% include img-main.html %} | <i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}
   {% elsif page.category == "Autre" %}
     {% include img-autre.html %} | <i class="fa-solid fa-user-group"></i> {{ page.players }} | <i class="fa-regular fa-clock"></i> {{ page.time }}
   {% endif %}
