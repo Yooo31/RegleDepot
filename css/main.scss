@@ -46,15 +46,16 @@ body {
 
 .bottom-nav {
   position: fixed;
-  left: 10px;
-  bottom: 10px;
-  width: 30vh;
+  left: 0;
+  bottom: 0;
+  width: 20vh;
   height: 70px;
   background: #fff;
   display: flex;
   justify-content: left;
   align-items: left;
   border-radius: 10px;
+  margin: 10px;
 }
 
 .bottom-bg {
