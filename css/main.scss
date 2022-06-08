@@ -46,8 +46,8 @@ body {
 
 .bottom-nav {
   position: fixed;
-  left: 5px;
-  bottom: 100;
+  left: 0;
+  bottom: 0;
   width: 45vh;
   height: 70px;
   background: #fff;
@@ -60,7 +60,7 @@ body {
 .bottom-bg {
   position: fixed;
   left: 0;
-  bottom: 10px;
+  bottom: 0;
   width: 100vh;
   height: 100px;
   background: var(--clr);
