@@ -48,14 +48,14 @@ body {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 90%;
+  width: 95%;
   height: 70px;
   background: #fff;
   display: flex;
   justify-content: left;
   align-items: left;
   border-radius: 10px;
-  margin: 25px;
+  margin: 25px 10px;
 }
 
 .bottom-bg {
@@ -63,7 +63,7 @@ body {
   left: 0;
   bottom: 0;
   width: 100vh;
-  height: 100px;
+  height: 130px;
   background: var(--clr);
   display: flex;
   justify-content: center;
