@@ -11,16 +11,16 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Description de dingo !" />
 <meta property="og:description" content="Description de dingo !" />
-<link rel="canonical" href="http://localhost:4000/RegleDepot/cartes/" />
-<meta property="og:url" content="http://localhost:4000/RegleDepot/cartes/" />
+<link rel="canonical" href="http://localhost:4000/cartes/" />
+<meta property="og:url" content="http://localhost:4000/cartes/" />
 <meta property="og:site_name" content="Nos règles de jeux" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Nos règles de jeux" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Description de dingo !","headline":"Nos règles de jeux","url":"http://localhost:4000/RegleDepot/cartes/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Description de dingo !","headline":"Nos règles de jeux","url":"http://localhost:4000/cartes/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/RegleDepot/css/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/RegleDepot/feed.xml" title="Nos règles de jeux" /></head>
+<link rel="stylesheet" href="/RegleDepot/css/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Nos règles de jeux" /></head>
 <body><nav class="navbar navbar-expand-lg navbar-dark">
   <div class="">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -39,6 +39,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/RegleDepot/balle">Jeux de balles</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/RegleDepot/main">Jeux de mains</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/RegleDepot/autre">Autre</a>
@@ -65,14 +68,14 @@
     <ul class="post-list"><li><div class="card mb-3 text-center" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4 mt-4">
-      <img src=/RegleDepot/content/99.png alt="Le 99">
+      <img src=/RegleDepot/content/99.png alt=Le 99 height="150" width="105">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title"><a class="post-link" href="/RegleDepot/le-99">
+        <h5 class="card-title"><a class="post-link" href="/le-99">
           Le 99
         </a></h5>
-        <p class="card-text">Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.</p><p class="card-text"><small class="text-muted"><img src="/RegleDepot/content/logo-carte.png" alt="jeu de cartes">| <i class="fa-solid fa-user-group"></i> 2 | <i class="fa-regular fa-clock"></i> 7 min</small></p></div>
+        <p class="card-text">Les joueurs posent leurs cartes au centre de la table en additionnant au fur et à mesure la valeur des cartes. Si vous dépassez 99, vous perdez.</p><p class="card-text"><small class="text-muted"><img src="/RegleDepot/content/logo-carte-min.png" alt="jeu de cartes">| <i class="fa-solid fa-user-group"></i> 2 | <i class="fa-regular fa-clock"></i> 7 min</small></p></div>
     </div>
   </div>
 </div></li></ul>
@@ -80,38 +83,71 @@
 </div>
 
       </div>
-    </main>
-
-    <!--<footer class="site-footer h-card">
-  <data class="u-url" href="/RegleDepot/"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">Nos règles de jeux</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">Nos règles de jeux</li></ul>
-      </div>
-
-      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
-</div>
-
-      <div class="footer-col footer-col-3">
-        <p>Description de dingo !</p>
-      </div>
+    </main><footer>
+  <div class="bottom-bg">
+    <div class="bottom-nav">
+    <ul>
+      <li class="bottom-nav-list nav-active">
+        <a href="#">
+          <span class="icon-nav">
+            <ion-icon name="home-outline"></ion-icon>
+          </span>
+          <span class="text-nav">Accueil</span>
+        </a>
+      </li>
+      <li class="bottom-nav-list">
+        <a href="#">
+          <span class="icon-nav">
+            <ion-icon name="grid-outline"></ion-icon>
+          </span>
+          <span class="text-nav">Catégories</span>
+        </a>
+      </li>
+      <li class="bottom-nav-list">
+        <a href="#">
+          <span class="icon-nav">
+            <ion-icon name="dice-outline"></ion-icon>
+          </span>
+          <span class="text-nav">Random</span>
+        </a>
+      </li>
+      <li class="bottom-nav-list">
+        <a href="#">
+          <span class="icon-nav">
+            <ion-icon name="dice-outline"></ion-icon>
+          </span>
+          <span class="text-nav">Jeux</span>
+        </a>
+      </li>
+      <li class="bottom-nav-list">
+        <a href="#">
+          <span class="icon-nav">
+            <ion-icon name="settings-outline"></ion-icon>
+          </span>
+          <span class="text-nav">Autre</span>
+        </a>
+      </li>
+      <div class="nav-indicator"></div>
+    </ul>
     </div>
-
   </div>
-
-</footer>
--->
-
-  </body>
+</footer></body>
 
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
   <script src="https://kit.fontawesome.com/853fcd3ad4.js" crossorigin="anonymous"></script>
+  <script>
+    const list = document.querySelectorAll('.bottom-nav-list');
+    function activeLink() {
+      list.forEach((item) =>
+      item.classList.remove('nav-active'));
+      this.classList.add('nav-active');
+    }
+    list.forEach((item) =>
+    item.addEventListener('click', activeLink));
+  </script>
+
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 </html>

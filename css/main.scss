@@ -24,3 +24,155 @@ nav {
 h2, h1 {
   color: #0f3696;
 }
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+:root {
+  --clr: #222327;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: var(--clr);
+}
+
+.bottom-nav {
+  position: fixed;
+  left: 5px;
+  bottom: 100;
+  width: 45vh;
+  height: 70px;
+  background: #fff;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  border-radius: 10px;
+}
+
+.bottom-bg {
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  width: 100vh;
+  height: 100px;
+  background: var(--clr);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.bottom-nav ul {
+  display: flex;
+  width: 350px;
+}
+
+.bottom-nav ul li {
+  list-style: none;
+  width: 70px;
+  height: 70px;
+  z-index: 1;
+}
+
+.bottom-nav ul li a {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  font-weight: 500;
+}
+
+.bottom-nav ul li a .icon-nav {
+  position: relative;
+  display: block;
+  line-height: 75px;
+  font-size: 1.5em;
+  text-align: center;
+  transition: 0.5s;
+  color: var(--clr);
+}
+
+.bottom-nav ul li.nav-active a .icon-nav {
+  transform: translateY(-32px);
+}
+
+.bottom-nav ul li a .text-nav {
+  position: absolute;
+  color: var(--clr);
+  font-weight: 400;
+  font-size: 0.75em;
+  letter-spacing: 0.05em;
+  transition: 0.5s;
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.bottom-nav ul li.nav-active a .text-nav {
+  opacity: 1;
+  transform: translateY(10px);
+}
+
+.nav-indicator {
+  position: absolute;
+  top: -50%;
+  width: 70px;
+  height: 70px;
+  background: #29fd53;
+  border-radius: 50%;
+  border: 6px solid var(--clr);
+  transition: 0.5s;
+}
+
+.nav-indicator::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -22px;
+  width: 20px;
+  height: 20px;
+  background: transparent;
+  border-top-right-radius: 20px;
+  box-shadow: 1px -10px 0 0 var(--clr);
+}
+
+.nav-indicator::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: -22px;
+  width: 20px;
+  height: 20px;
+  background: transparent;
+  border-top-left-radius: 20px;
+  box-shadow: -1px -10px 0 0 var(--clr);
+}
+
+.bottom-nav ul li:nth-child(1).nav-active ~ .nav-indicator {
+  transform: translateX(calc(70px * 0));
+}
+
+.bottom-nav ul li:nth-child(2).nav-active ~ .nav-indicator {
+  transform: translateX(calc(70px * 1));
+}
+
+.bottom-nav ul li:nth-child(3).nav-active ~ .nav-indicator {
+  transform: translateX(calc(70px * 2));
+}
+
+.bottom-nav ul li:nth-child(4).nav-active ~ .nav-indicator {
+  transform: translateX(calc(70px * 3));
+}
+
+.bottom-nav ul li:nth-child(5).nav-active ~ .nav-indicator {
+  transform: translateX(calc(70px * 4));
+}
