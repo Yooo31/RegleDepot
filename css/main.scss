@@ -210,8 +210,8 @@ img {
 }
 
 .story-container ul li .story {
-  width: 47px;
-  height: 47px;
+  width: 71px;
+  height: 71px;
   border-radius: 50%;
   background: rgba(255, 255, 255, .75);
   padding: 1px;
@@ -233,10 +233,10 @@ img {
 }
 
 .story-container ul li span {
-  color: rgba(255, 255, 255, .85);
+  color: rgba(255, 255, 255, .85) !important;
   font-weight: 300;
-  font-size: 12px;
-  max-width: 56px;
+  font-size: 15px;
+  max-width: 85px;
   overflow: hidden;
   text-overflow: ellipsis;
   margin-top: 5px;
@@ -245,6 +245,6 @@ img {
 .story-container {
   margin: 0px;
   padding: 0px;
-  max-width: 100vh;
-  margin-left: 200px;
+  width: 100vh;
+  margin-left: 100px;
 }
