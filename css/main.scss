@@ -193,6 +193,7 @@ img {
 .story-container ul {
   display: flex;
   padding: 20px 10px;
+  justify-content: center;
 }
 
 .story-container ul li {
@@ -204,11 +205,11 @@ img {
 }
 
 .story-container ul li:first-child {
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 .story-container ul li:last-child {
-  padding-right: 20px;
+  padding-right: 40px;
 }
 
 .story-container ul li .story {
