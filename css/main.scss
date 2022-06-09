@@ -39,6 +39,7 @@ h2, h1 {
 body {
   display: flex;
   justify-content: center;
+  overflow:hidden;
   align-items: center;
   min-height: 100vh;
   background: var(--clr);
