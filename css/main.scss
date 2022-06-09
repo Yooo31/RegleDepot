@@ -22,7 +22,11 @@ nav {
 }
 
 h2, h1 {
-  color: #0f3696;
+  color: rgba(255, 255, 255, .85);;
+}
+
+a {
+  color: rgba(255, 255, 255, .85);
 }
 
 * {
@@ -233,7 +237,7 @@ img {
 }
 
 .story-container ul li span {
-  color: rgba(255, 255, 255, .85) !important;
+  color: rgba(255, 255, 255, .85);
   font-weight: 300;
   font-size: 15px;
   max-width: 85px;
