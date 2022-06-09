@@ -43,7 +43,7 @@ h2, h1, p {
 body {
   display: flex;
   justify-content: center;
-  overflow:hidden;
+  overflow-y:hidden;
   align-items: center;
   min-height: 100vh;
   background: var(--clr);
