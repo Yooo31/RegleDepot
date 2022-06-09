@@ -245,10 +245,6 @@ img {
 .story-container {
   margin: 0px;
   padding: 0px;
+  max-width: 100vh;
   margin-left: 200px;
-  position: fixed;
-}
-
-.wrapper {
-  overflow: hidden;
 }
