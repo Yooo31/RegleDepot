@@ -237,7 +237,7 @@ img {
 }
 
 .story-container ul li span {
-  color: rgba(255, 255, 255, .85);
+  color: rgba(255, 255, 255, .85) !important;
   font-weight: 300;
   font-size: 15px;
   max-width: 85px;
@@ -250,5 +250,5 @@ img {
   margin: 0px;
   padding: 0px;
   width: 100vh;
-  margin-left: 100px;
+  margin-left: 200px;
 }
