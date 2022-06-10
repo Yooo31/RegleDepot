@@ -27,15 +27,7 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 /** Links */
-a { color: #2a7ae2; text-decoration: none; }
-
-a:visited { color: #1756a9; }
-
-a:hover { color: #111; text-decoration: underline; }
-
-.social-media-list a:hover { text-decoration: none; }
-
-.social-media-list a:hover .username { text-decoration: underline; }
+a { text-decoration: none; }
 
 /** Blockquotes */
 blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
@@ -282,13 +274,15 @@ ul { list-style: none; }
 
 nav { background-color: #0f3696 !important; }
 
-h2, h1 { color: #0f3696; }
+h2, h1, p, i { color: rgba(255, 255, 255, 0.85); }
+
+.page-content { padding-bottom: 200px; }
 
 * { margin: 0px; padding: 0px; box-sizing: border-box; font-family: 'Kdam Thmor Pro', sans-serif; }
 
 :root { --clr: #222327; }
 
-body { display: flex; justify-content: center; align-items: center; min-height: 100vh; background: var(--clr); }
+body { display: flex; justify-content: center; align-items: center; min-height: 100vh; background: var(--clr); max-width: 100%; }
 
 .bottom-nav { position: fixed; left: 0; bottom: 0; width: 95%; height: 70px; background: #fff; display: flex; justify-content: left; align-items: left; border-radius: 10px; margin: 15px 10px; }
 
@@ -299,6 +293,8 @@ body { display: flex; justify-content: center; align-items: center; min-height: 
 .bottom-nav ul li { list-style: none; width: 70px; height: 70px; z-index: 1; }
 
 .bottom-nav ul li a { position: relative; display: flex; justify-content: center; flex-direction: column; width: 100%; text-align: center; font-weight: 500; }
+
+.link-story { color: #56aa95; background: #222327; }
 
 .bottom-nav ul li a .icon-nav { position: relative; display: block; line-height: 75px; font-size: 1.5em; text-align: center; transition: 0.5s; color: var(--clr); }
 
@@ -326,13 +322,13 @@ body { display: flex; justify-content: center; align-items: center; min-height: 
 
 img { pointer-events: none; }
 
-.story-container ul { list-style-type: none; user-select: none; display: flex; overflow-y: auto; padding: 20px 0px; }
+.story-container ul { display: flex; padding: 20px 10px; justify-content: center; }
 
 .story-container ul li { padding: 0px 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
 
-.story-container ul li:first-child { padding-left: 20px; }
+.story-container ul li:first-child { padding-left: 0px; }
 
-.story-container ul li:last-child { padding-right: 20px; }
+.story-container ul li:last-child { padding-right: 40px; }
 
 .story-container ul li .story { width: 71px; height: 71px; border-radius: 50%; background: rgba(255, 255, 255, 0.75); padding: 1px; position: relative; }
 
@@ -340,6 +336,20 @@ img { pointer-events: none; }
 
 .story-container ul li .story img { padding: 4px; background: currentColor; border-radius: 50%; width: 100%; height: 100%; position: relative; }
 
-.story-container ul li span { color: rgba(255, 255, 255, 0.85); font-weight: 300; font-size: 15px; max-width: 85px; overflow: hidden; text-overflow: ellipsis; margin-top: 5px; }
+.story-container ul li span { color: rgba(255, 255, 255, 0.85) !important; font-weight: 300; font-size: 15px; max-width: 85px; overflow: hidden; text-overflow: ellipsis; margin-top: 5px; }
+
+.story-container { margin: 0px; padding: 0px; width: 100vh; }
+
+.box-categories-container { display: flex; flex-wrap: wrap; width: 100%; justify-content: center; }
+
+.box-categories-container .categories-card { width: 40%; height: 300px; background: grey; margin: 10px; border-radius: 20px; }
+
+.box-categories-container .categories-card-title { text-align: center; }
+
+.box-categories-container .categories-card-img { display: block; margin: 30% auto; }
+
+.box-categories-container .categories-card .categories-card-div-button { background-color: var(--clr); width: 75%; height: 20%; display: block; margin: 30% auto; border-radius: 45%; display: flex; align-items: center; justify-content: center; }
+
+.box-categories-container .categories-card span { color: #fff; }
 
 /*# sourceMappingURL=main.css.map */
