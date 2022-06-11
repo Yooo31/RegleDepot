@@ -10,7 +10,7 @@ permalink: /categories/
 <div class="box-categories-container">
   <div class="categories-card">
     <h3 class="categories-card-title">Jeux de Cartes</h3>
-    <img class="categories-card-img" src="/content/logo-carte-min.png" alt="">
+    <img class="categories-card-img" src="/RegleDepot/content/logo-carte-min.png" alt="">
     <div class="categories-card-div-button">
       <span>Voir</span>
     </div>
